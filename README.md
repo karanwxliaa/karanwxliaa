@@ -1,5 +1,6 @@
 # 💫 About Me:
 A programmer with an ardent passion for Data Science / Machine Learning and Deep Learning<br>Computer science sophomore @ VIT Chennai
+Check out my latest work at https://github.com/karanwxliaa/Underwater-Trash-Detection
 
 
 ## 🌐 Socials:
