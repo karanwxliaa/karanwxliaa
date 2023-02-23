@@ -19,4 +19,4 @@ Check out my latest work at https://github.com/karanwxliaa/Underwater-Trash-Dete
 ---
 [![](https://visitcount.itsvg.in/api?id=karanwxliaa&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/karanwxliaa)
