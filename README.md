@@ -14,9 +14,6 @@ Check out my latest work updates on [https://karanwxliaa.github.io/portfolio/]
 
 ![Snake animation](https://github.com/karanwxliaa/karanwxliaa/blob/output/github-contribution-grid-snake.svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=karanwxliaa&icon=2&color=0)](https://visitcount.itsvg.in)
 
