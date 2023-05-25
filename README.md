@@ -11,7 +11,6 @@ Check out my latest work updates on [https://karanwxliaa.github.io/portfolio/]
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karanwxliaa&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanwxliaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Snake animation](https://github.com/karanwxliaa/karanwxliaa/blob/output/github-contribution-grid-snake.svg)
 
