@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do research. <br>
+I love AI research & Dogs, nothing else. <br>
 [Website](https://karanwxliaa.github.io/portfolio/)<br>
 [LinkedIn](https://in.linkedin.com/in/jaskaran-singh-walia-657696271)<br>
 [Google Scholar](https://scholar.google.com/citations?user=xeCv5E0AAAAJ&hl=en)<br>
